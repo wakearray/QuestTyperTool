@@ -16,3 +16,6 @@ In the Settings menu, select the Oculus Quest headset that you’re using for de
 Select More Settings.
 Toggle Developer Mode on.
 Once developer mode has been turned on you'll need to connect your headset to your PC and type something. The app will run the 'adb devices' command and you will need to authorize the PC using the prompt inside the headset. Once that's done, simply select the field you want typed into and put the text into the large text field of the app's interface and either push submit or hit enter.
+
+When you've successfully sent the word test, it'll look like this:
+![Image of interface](https://github.com/wakearray/QuestTyperTool/blob/master/QTT2.png)
