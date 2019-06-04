@@ -1,5 +1,7 @@
 A tool to make typing out passwords on Android devices without a touchscreen like the Oculus Quest faster by using your Windows PC keyboard to type over ADB.
 
+![Image of interface](https://github.com/wakearray/QuestTyperTool/blob/master/QTT.png)
+
 Based on the answer to this question: https://stackoverflow.com/questions/56386237/is-it-possible-to-copy-paste-type-eg-a-password-from-an-app-into-the-oculus-q/56386580#56386580
 
 First make sure you have ADB downloaded to your computer and you know where it is. If you don't have it, you can find it here: https://developer.android.com/studio/releases/platform-tools.html
