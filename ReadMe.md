@@ -1,3 +1,7 @@
+# Archived Project
+The project was released just as SideQuest introduced it's own method for enterting text into text fields on the Quest. However, as the code could still potentially prove useful for someone and was released effectively feature complete, it'll remain up in an archived state.
+
+# Quest Typer
 A tool to make typing out passwords on Android devices without a touchscreen like the Oculus Quest faster by using your Windows PC keyboard to type over ADB.
 
 ![Image of interface](https://github.com/wakearray/QuestTyperTool/blob/master/QTT.png)
